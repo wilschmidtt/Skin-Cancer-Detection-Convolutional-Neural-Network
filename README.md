@@ -31,10 +31,13 @@ This too will need to be changed to match the directory that the user saved the 
 ## Final Thoughts
 * After training the model, our team was able to get it to classify images in the test set with **87% accuracy**. The model was trained using the free Google Colaboratory service and their remote GPU, but the time required to train this model was still substantial. If the user has access to more computing power, then this model can be trained with more data and epochs, and reach a much higher accuracy (99% and above). The file used to train the neurl network is titled "Skin_Cancer_CNN.py", and users can feel free to run this program on their own GPU, tune the parameters differently, and use any training data desired.
 
+## Next Steps
+* A next step that could be taken with this project is potentially pairing it with a mobile app so that photos can be taken by users and predictions can be made in real-time about the photos in question. The back end code is pretty much complete, so if the regression equation is exported and and paired with the front end code, a skin cancer detection app could be very possible.
+
 ## Authors
 
 * **William Schmidt** - [Wil's LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
-* **Danial Khan** - [Danial's LikedIn](https://www.linkedin.com/in/danial-khan-98415b18b/)
+* **Danial Khan** - [Danial's LikedIn](https://www.linkedin.com/in/danial-khan-98415b18b/), [Danial's GitHub](https://github.com/danialk1?tab=repositories)
 * **Matthew Meer** - [Matt's LikedIn](https://www.linkedin.com/in/matthew-meer-8356b572/), [Matt's GitHub](https://github.com/meerkat1293?tab=repositories)
 * **Awen Li** - [Awen's GitHub](https://github.com/BabyMochi)
 
