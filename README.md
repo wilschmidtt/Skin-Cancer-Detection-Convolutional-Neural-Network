@@ -6,7 +6,7 @@ Build and train a Convolutional Neural Network to detect if skin scans show sign
 
 ### Prerequisites
 * Python 3.7
-
+ 
 ## Libraries to Install
 * keras - neural network library
 
